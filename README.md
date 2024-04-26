@@ -8,4 +8,4 @@ When I'm not coding or studying, I'm out and about, indulging in my other passio
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XT60&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=merko)
