@@ -4,7 +4,7 @@ I'm a passionate game developer from Poland 🇵🇱, with a strong drive for cr
 
 Currently, I'm immersed in a fantastic web-based game project 💻 that uses the Phaser framework, allowing me to combine my interests in web technology and game design to create engaging, interactive content 🎨.
 
-When I'm not coding or studying, I'm out and about, indulging in my other passions: sports ⚽️, climbing 🧗, and mountaineering 🏔️. These activities not only keep me active 💪 but also inspire my creative process ✨, helping me bring fresh ideas to my game development work.
+When I'm not coding or studying, I'm out and about, indulging in my other passions: travelling 🗺️, climbing 🧗, and mountaineering 🏔️. These activities not only keep me active 💪 but also inspire my creative process ✨, helping me bring fresh ideas to my game development work.
 
 ## GitHub Stats
 
